@@ -15,3 +15,4 @@ The MNIST dataset is available from [here](http://yann.lecun.com/exdb/mnist/), c
 - **NumPy** for data manipulation
 - **Matplotlib** for visualization
 - **Scikit-learn** for data preprocessing (if used)
+Achieved 98.95%accuracy
